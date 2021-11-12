@@ -27,24 +27,11 @@ body.box{
 	background-color: var(--twotkbg);
 }
 
-.control{
-	width: 15px;
-	height: 15px;
-	background-color: hsl(6, 63%, 50%);
-	position: absolute;
-	top: 0;
-	left: 0;
-	z-index: 1;
-	border-radius: 30px;
 }
 body.active{
 	background-color: hsl(25, 98%, 40%);
 }
-.control p{
-	color: #FFF;
-	cursor: pointer;
-	margin-right: 4px;
-}
+
 
 .screen{
 	width: 450px;
