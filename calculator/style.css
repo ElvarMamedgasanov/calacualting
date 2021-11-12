@@ -27,7 +27,6 @@ body.box{
 	background-color: var(--twotkbg);
 }
 
-}
 body.active{
 	background-color: hsl(25, 98%, 40%);
 }
